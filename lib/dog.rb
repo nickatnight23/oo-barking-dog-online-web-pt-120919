@@ -13,3 +13,8 @@ snoop = Dog.new
 snoop.name = "Snoop"
  
 puts snoop.name
+
+ def bark
+    puts "woof!"
+  end
+end
